@@ -23,6 +23,4 @@ public class Animal {
     public String toString() {
         return "Animal:" + "\name:\t" + name + "\nweight:\t" + weight;
     }
-
-    
 }
