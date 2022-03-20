@@ -4,7 +4,7 @@ import domain.Cat;
 
 public class TestAnimal {
 
-    public static void main(String[] args) {
+    public static void mian(String[] args) {
         Cat cat = new Cat("Thomas");
         System.out.println(cat);
         cat.hunt();
